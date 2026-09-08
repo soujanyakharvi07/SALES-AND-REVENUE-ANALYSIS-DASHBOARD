@@ -1,0 +1,501 @@
+Order Date,Order ID,Product,Category,Region,Quantity,Unit Price,Revenue
+6/13/2026,ORD0001,Smartphone,Electronics,East,1,30000,30000
+3/4/2026,ORD0002,Office Chair,Furniture,North,3,7500,22500
+6/23/2026,ORD0003,Printer,Electronics,West,2,11000,22000
+1/9/2026,ORD0004,Laptop,Electronics,South,2,55000,110000
+3/1/2026,ORD0005,Printer,Electronics,South,1,11000,11000
+6/16/2026,ORD0006,Printer,Electronics,South,7,11000,77000
+4/25/2026,ORD0007,Backpack,Accessories,North,5,2200,11000
+2/10/2026,ORD0008,Mouse,Accessories,East,6,900,5400
+2/9/2026,ORD0009,Office Chair,Furniture,North,6,7500,45000
+1/24/2026,ORD0010,Mouse,Accessories,East,2,900,1800
+3/30/2026,ORD0011,Backpack,Accessories,North,5,2200,11000
+4/28/2026,ORD0012,Printer,Electronics,West,2,11000,22000
+1/21/2026,ORD0013,Printer,Electronics,East,5,11000,55000
+5/28/2026,ORD0014,Office Chair,Furniture,North,2,7500,15000
+6/19/2026,ORD0015,Office Chair,Furniture,North,5,7500,37500
+3/1/2026,ORD0016,Smartphone,Electronics,East,7,30000,210000
+4/27/2026,ORD0017,Keyboard,Accessories,East,3,1800,5400
+4/1/2026,ORD0018,Office Chair,Furniture,North,5,7500,37500
+6/5/2026,ORD0019,Headphones,Electronics,South,4,2500,10000
+4/29/2026,ORD0020,Mouse,Accessories,South,5,900,4500
+6/25/2026,ORD0021,Keyboard,Accessories,South,1,1800,1800
+1/9/2026,ORD0022,Keyboard,Accessories,East,7,1800,12600
+1/17/2026,ORD0023,Office Chair,Furniture,South,6,7500,45000
+6/17/2026,ORD0024,Monitor,Electronics,West,7,15000,105000
+2/6/2026,ORD0025,Desk,Furniture,South,3,12000,36000
+5/24/2026,ORD0026,Printer,Electronics,West,5,11000,55000
+5/30/2026,ORD0027,Mouse,Accessories,South,6,900,5400
+2/5/2026,ORD0028,Printer,Electronics,North,8,11000,88000
+1/13/2026,ORD0029,Smartphone,Electronics,South,3,30000,90000
+6/24/2026,ORD0030,Mouse,Accessories,West,2,900,1800
+4/8/2026,ORD0031,Backpack,Accessories,East,8,2200,17600
+5/22/2026,ORD0032,Laptop,Electronics,East,2,55000,110000
+6/14/2026,ORD0033,Keyboard,Accessories,East,2,1800,3600
+4/22/2026,ORD0034,Headphones,Electronics,North,8,2500,20000
+3/9/2026,ORD0035,Printer,Electronics,North,3,11000,33000
+6/10/2026,ORD0036,Desk,Furniture,South,4,12000,48000
+4/6/2026,ORD0037,Headphones,Electronics,East,1,2500,2500
+5/6/2026,ORD0038,Laptop,Electronics,East,2,55000,110000
+3/20/2026,ORD0039,Office Chair,Furniture,South,1,7500,7500
+5/26/2026,ORD0040,Smartphone,Electronics,West,2,30000,60000
+1/18/2026,ORD0041,Printer,Electronics,South,3,11000,33000
+6/18/2026,ORD0042,Monitor,Electronics,East,3,15000,45000
+5/16/2026,ORD0043,Backpack,Accessories,South,7,2200,15400
+5/19/2026,ORD0044,Office Chair,Furniture,West,5,7500,37500
+6/21/2026,ORD0045,Keyboard,Accessories,West,8,1800,14400
+1/31/2026,ORD0046,Office Chair,Furniture,North,4,7500,30000
+3/28/2026,ORD0047,Laptop,Electronics,South,4,55000,220000
+1/2/2026,ORD0048,Smartphone,Electronics,South,1,30000,30000
+1/18/2026,ORD0049,Laptop,Electronics,North,6,55000,330000
+5/12/2026,ORD0050,Office Chair,Furniture,West,5,7500,37500
+2/24/2026,ORD0051,Printer,Electronics,West,3,11000,33000
+3/4/2026,ORD0052,Monitor,Electronics,South,7,15000,105000
+1/25/2026,ORD0053,Smartphone,Electronics,East,7,30000,210000
+4/19/2026,ORD0054,Mouse,Accessories,North,8,900,7200
+6/22/2026,ORD0055,Smartphone,Electronics,West,1,30000,30000
+3/28/2026,ORD0056,Smartphone,Electronics,South,4,30000,120000
+2/18/2026,ORD0057,Printer,Electronics,South,8,11000,88000
+4/19/2026,ORD0058,Headphones,Electronics,West,5,2500,12500
+3/5/2026,ORD0059,Smartphone,Electronics,North,8,30000,240000
+1/13/2026,ORD0060,Printer,Electronics,North,1,11000,11000
+3/2/2026,ORD0061,Headphones,Electronics,West,7,2500,17500
+5/4/2026,ORD0062,Office Chair,Furniture,North,7,7500,52500
+2/12/2026,ORD0063,Mouse,Accessories,West,1,900,900
+3/9/2026,ORD0064,Monitor,Electronics,West,5,15000,75000
+6/28/2026,ORD0065,Printer,Electronics,South,8,11000,88000
+2/18/2026,ORD0066,Desk,Furniture,North,4,12000,48000
+5/29/2026,ORD0067,Printer,Electronics,East,1,11000,11000
+1/15/2026,ORD0068,Laptop,Electronics,South,8,55000,440000
+1/15/2026,ORD0069,Printer,Electronics,South,2,11000,22000
+1/18/2026,ORD0070,Backpack,Accessories,South,2,2200,4400
+4/14/2026,ORD0071,Smartphone,Electronics,North,4,30000,120000
+6/8/2026,ORD0072,Smartphone,Electronics,East,7,30000,210000
+3/8/2026,ORD0073,Office Chair,Furniture,South,6,7500,45000
+3/9/2026,ORD0074,Mouse,Accessories,East,3,900,2700
+4/28/2026,ORD0075,Keyboard,Accessories,North,2,1800,3600
+4/28/2026,ORD0076,Backpack,Accessories,North,2,2200,4400
+5/18/2026,ORD0077,Office Chair,Furniture,South,5,7500,37500
+3/31/2026,ORD0078,Smartphone,Electronics,East,4,30000,120000
+3/14/2026,ORD0079,Headphones,Electronics,East,8,2500,20000
+6/6/2026,ORD0080,Printer,Electronics,East,1,11000,11000
+6/19/2026,ORD0081,Smartphone,Electronics,East,3,30000,90000
+1/30/2026,ORD0082,Smartphone,Electronics,East,3,30000,90000
+3/14/2026,ORD0083,Backpack,Accessories,East,4,2200,8800
+2/22/2026,ORD0084,Desk,Furniture,East,8,12000,96000
+1/14/2026,ORD0085,Smartphone,Electronics,East,7,30000,210000
+1/12/2026,ORD0086,Laptop,Electronics,South,6,55000,330000
+6/13/2026,ORD0087,Desk,Furniture,West,3,12000,36000
+5/22/2026,ORD0088,Mouse,Accessories,North,1,900,900
+1/20/2026,ORD0089,Headphones,Electronics,East,1,2500,2500
+5/30/2026,ORD0090,Printer,Electronics,West,3,11000,33000
+2/2/2026,ORD0091,Laptop,Electronics,East,5,55000,275000
+1/11/2026,ORD0092,Keyboard,Accessories,South,4,1800,7200
+6/20/2026,ORD0093,Smartphone,Electronics,West,6,30000,180000
+6/8/2026,ORD0094,Headphones,Electronics,South,4,2500,10000
+2/15/2026,ORD0095,Mouse,Accessories,South,1,900,900
+3/27/2026,ORD0096,Mouse,Accessories,East,4,900,3600
+2/10/2026,ORD0097,Smartphone,Electronics,North,7,30000,210000
+5/1/2026,ORD0098,Office Chair,Furniture,West,4,7500,30000
+3/31/2026,ORD0099,Desk,Furniture,South,4,12000,48000
+1/7/2026,ORD0100,Office Chair,Furniture,East,7,7500,52500
+3/13/2026,ORD0101,Smartphone,Electronics,East,5,30000,150000
+6/14/2026,ORD0102,Printer,Electronics,East,7,11000,77000
+1/8/2026,ORD0103,Smartphone,Electronics,South,5,30000,150000
+5/29/2026,ORD0104,Desk,Furniture,North,1,12000,12000
+6/2/2026,ORD0105,Mouse,Accessories,East,6,900,5400
+4/22/2026,ORD0106,Backpack,Accessories,West,2,2200,4400
+5/28/2026,ORD0107,Office Chair,Furniture,North,5,7500,37500
+7/1/2026,ORD0108,Mouse,Accessories,South,1,900,900
+4/4/2026,ORD0109,Mouse,Accessories,East,2,900,1800
+6/9/2026,ORD0110,Keyboard,Accessories,East,2,1800,3600
+5/10/2026,ORD0111,Desk,Furniture,East,7,12000,84000
+4/14/2026,ORD0112,Desk,Furniture,South,3,12000,36000
+4/18/2026,ORD0113,Mouse,Accessories,East,3,900,2700
+4/14/2026,ORD0114,Printer,Electronics,East,1,11000,11000
+3/15/2026,ORD0115,Office Chair,Furniture,East,7,7500,52500
+4/30/2026,ORD0116,Monitor,Electronics,South,8,15000,120000
+5/11/2026,ORD0117,Monitor,Electronics,North,3,15000,45000
+3/14/2026,ORD0118,Printer,Electronics,North,6,11000,66000
+3/2/2026,ORD0119,Desk,Furniture,South,4,12000,48000
+2/7/2026,ORD0120,Laptop,Electronics,South,1,55000,55000
+5/2/2026,ORD0121,Backpack,Accessories,West,2,2200,4400
+4/17/2026,ORD0122,Backpack,Accessories,West,4,2200,8800
+5/7/2026,ORD0123,Mouse,Accessories,South,4,900,3600
+6/17/2026,ORD0124,Laptop,Electronics,West,2,55000,110000
+2/26/2026,ORD0125,Headphones,Electronics,North,8,2500,20000
+5/23/2026,ORD0126,Office Chair,Furniture,West,2,7500,15000
+2/4/2026,ORD0127,Monitor,Electronics,West,6,15000,90000
+6/6/2026,ORD0128,Printer,Electronics,West,7,11000,77000
+2/10/2026,ORD0129,Monitor,Electronics,East,8,15000,120000
+3/5/2026,ORD0130,Desk,Furniture,South,8,12000,96000
+3/12/2026,ORD0131,Monitor,Electronics,East,2,15000,30000
+3/2/2026,ORD0132,Desk,Furniture,East,6,12000,72000
+5/19/2026,ORD0133,Smartphone,Electronics,South,3,30000,90000
+3/1/2026,ORD0134,Mouse,Accessories,South,3,900,2700
+1/17/2026,ORD0135,Mouse,Accessories,East,7,900,6300
+5/19/2026,ORD0136,Monitor,Electronics,North,7,15000,105000
+2/22/2026,ORD0137,Mouse,Accessories,North,7,900,6300
+5/28/2026,ORD0138,Mouse,Accessories,North,8,900,7200
+4/1/2026,ORD0139,Desk,Furniture,West,7,12000,84000
+5/18/2026,ORD0140,Printer,Electronics,West,4,11000,44000
+2/26/2026,ORD0141,Desk,Furniture,West,7,12000,84000
+1/8/2026,ORD0142,Mouse,Accessories,West,6,900,5400
+2/12/2026,ORD0143,Monitor,Electronics,North,3,15000,45000
+4/11/2026,ORD0144,Backpack,Accessories,North,1,2200,2200
+6/14/2026,ORD0145,Mouse,Accessories,West,3,900,2700
+2/16/2026,ORD0146,Laptop,Electronics,West,5,55000,275000
+3/25/2026,ORD0147,Office Chair,Furniture,East,8,7500,60000
+3/28/2026,ORD0148,Mouse,Accessories,West,5,900,4500
+3/6/2026,ORD0149,Smartphone,Electronics,North,8,30000,240000
+5/19/2026,ORD0150,Laptop,Electronics,South,6,55000,330000
+6/16/2026,ORD0151,Smartphone,Electronics,North,1,30000,30000
+3/5/2026,ORD0152,Office Chair,Furniture,South,1,7500,7500
+3/3/2026,ORD0153,Headphones,Electronics,North,8,2500,20000
+5/25/2026,ORD0154,Office Chair,Furniture,East,8,7500,60000
+4/5/2026,ORD0155,Headphones,Electronics,South,2,2500,5000
+3/21/2026,ORD0156,Smartphone,Electronics,East,1,30000,30000
+5/28/2026,ORD0157,Mouse,Accessories,South,7,900,6300
+1/20/2026,ORD0158,Backpack,Accessories,North,4,2200,8800
+6/28/2026,ORD0159,Desk,Furniture,North,2,12000,24000
+3/30/2026,ORD0160,Printer,Electronics,East,7,11000,77000
+1/18/2026,ORD0161,Printer,Electronics,North,6,11000,66000
+4/18/2026,ORD0162,Monitor,Electronics,West,2,15000,30000
+4/3/2026,ORD0163,Monitor,Electronics,West,3,15000,45000
+2/15/2026,ORD0164,Printer,Electronics,West,5,11000,55000
+4/30/2026,ORD0165,Mouse,Accessories,East,5,900,4500
+3/4/2026,ORD0166,Smartphone,Electronics,West,5,30000,150000
+3/4/2026,ORD0167,Monitor,Electronics,East,7,15000,105000
+1/8/2026,ORD0168,Monitor,Electronics,South,6,15000,90000
+5/5/2026,ORD0169,Office Chair,Furniture,East,6,7500,45000
+3/29/2026,ORD0170,Desk,Furniture,North,5,12000,60000
+5/13/2026,ORD0171,Office Chair,Furniture,South,2,7500,15000
+4/15/2026,ORD0172,Monitor,Electronics,West,4,15000,60000
+6/15/2026,ORD0173,Monitor,Electronics,North,8,15000,120000
+1/24/2026,ORD0174,Desk,Furniture,West,4,12000,48000
+6/27/2026,ORD0175,Office Chair,Furniture,East,5,7500,37500
+5/2/2026,ORD0176,Printer,Electronics,West,6,11000,66000
+5/21/2026,ORD0177,Keyboard,Accessories,West,6,1800,10800
+3/11/2026,ORD0178,Desk,Furniture,South,5,12000,60000
+1/31/2026,ORD0179,Office Chair,Furniture,North,6,7500,45000
+5/18/2026,ORD0180,Headphones,Electronics,South,4,2500,10000
+5/4/2026,ORD0181,Desk,Furniture,North,5,12000,60000
+2/19/2026,ORD0182,Desk,Furniture,East,4,12000,48000
+2/15/2026,ORD0183,Desk,Furniture,South,1,12000,12000
+3/12/2026,ORD0184,Laptop,Electronics,East,1,55000,55000
+6/28/2026,ORD0185,Headphones,Electronics,North,8,2500,20000
+1/4/2026,ORD0186,Backpack,Accessories,West,5,2200,11000
+5/3/2026,ORD0187,Monitor,Electronics,South,6,15000,90000
+1/14/2026,ORD0188,Desk,Furniture,North,8,12000,96000
+1/17/2026,ORD0189,Mouse,Accessories,North,8,900,7200
+5/28/2026,ORD0190,Laptop,Electronics,South,3,55000,165000
+5/25/2026,ORD0191,Desk,Furniture,South,2,12000,24000
+1/31/2026,ORD0192,Printer,Electronics,South,7,11000,77000
+5/14/2026,ORD0193,Mouse,Accessories,West,8,900,7200
+3/18/2026,ORD0194,Backpack,Accessories,East,7,2200,15400
+5/26/2026,ORD0195,Backpack,Accessories,North,1,2200,2200
+2/23/2026,ORD0196,Office Chair,Furniture,North,5,7500,37500
+2/10/2026,ORD0197,Office Chair,Furniture,North,3,7500,22500
+2/10/2026,ORD0198,Laptop,Electronics,West,7,55000,385000
+6/26/2026,ORD0199,Backpack,Accessories,East,8,2200,17600
+1/9/2026,ORD0200,Office Chair,Furniture,East,5,7500,37500
+6/29/2026,ORD0201,Monitor,Electronics,South,2,15000,30000
+3/9/2026,ORD0202,Backpack,Accessories,West,4,2200,8800
+1/30/2026,ORD0203,Printer,Electronics,South,4,11000,44000
+3/10/2026,ORD0204,Headphones,Electronics,North,2,2500,5000
+2/12/2026,ORD0205,Desk,Furniture,West,5,12000,60000
+2/1/2026,ORD0206,Monitor,Electronics,West,5,15000,75000
+3/11/2026,ORD0207,Printer,Electronics,West,8,11000,88000
+1/21/2026,ORD0208,Backpack,Accessories,West,1,2200,2200
+3/24/2026,ORD0209,Backpack,Accessories,North,5,2200,11000
+1/24/2026,ORD0210,Office Chair,Furniture,East,1,7500,7500
+5/28/2026,ORD0211,Laptop,Electronics,West,3,55000,165000
+5/13/2026,ORD0212,Monitor,Electronics,South,5,15000,75000
+5/30/2026,ORD0213,Mouse,Accessories,North,8,900,7200
+5/1/2026,ORD0214,Keyboard,Accessories,East,7,1800,12600
+3/24/2026,ORD0215,Smartphone,Electronics,East,3,30000,90000
+4/16/2026,ORD0216,Monitor,Electronics,West,5,15000,75000
+5/21/2026,ORD0217,Laptop,Electronics,North,8,55000,440000
+3/22/2026,ORD0218,Desk,Furniture,North,6,12000,72000
+4/14/2026,ORD0219,Printer,Electronics,West,1,11000,11000
+4/16/2026,ORD0220,Laptop,Electronics,East,4,55000,220000
+6/9/2026,ORD0221,Monitor,Electronics,North,8,15000,120000
+2/22/2026,ORD0222,Desk,Furniture,East,3,12000,36000
+4/23/2026,ORD0223,Monitor,Electronics,North,2,15000,30000
+6/11/2026,ORD0224,Backpack,Accessories,South,4,2200,8800
+3/21/2026,ORD0225,Printer,Electronics,West,1,11000,11000
+1/24/2026,ORD0226,Office Chair,Furniture,West,2,7500,15000
+1/31/2026,ORD0227,Headphones,Electronics,East,8,2500,20000
+5/11/2026,ORD0228,Desk,Furniture,West,7,12000,84000
+5/1/2026,ORD0229,Office Chair,Furniture,South,8,7500,60000
+4/9/2026,ORD0230,Office Chair,Furniture,North,3,7500,22500
+3/12/2026,ORD0231,Mouse,Accessories,East,6,900,5400
+1/1/2026,ORD0232,Desk,Furniture,West,5,12000,60000
+2/8/2026,ORD0233,Monitor,Electronics,East,8,15000,120000
+3/27/2026,ORD0234,Printer,Electronics,West,7,11000,77000
+3/24/2026,ORD0235,Office Chair,Furniture,West,4,7500,30000
+3/1/2026,ORD0236,Mouse,Accessories,East,1,900,900
+5/2/2026,ORD0237,Mouse,Accessories,South,7,900,6300
+5/7/2026,ORD0238,Laptop,Electronics,East,3,55000,165000
+1/26/2026,ORD0239,Monitor,Electronics,West,2,15000,30000
+1/4/2026,ORD0240,Headphones,Electronics,South,7,2500,17500
+1/20/2026,ORD0241,Monitor,Electronics,East,5,15000,75000
+6/9/2026,ORD0242,Mouse,Accessories,East,2,900,1800
+6/22/2026,ORD0243,Printer,Electronics,East,7,11000,77000
+6/10/2026,ORD0244,Monitor,Electronics,North,1,15000,15000
+3/2/2026,ORD0245,Desk,Furniture,North,4,12000,48000
+4/22/2026,ORD0246,Smartphone,Electronics,West,2,30000,60000
+2/12/2026,ORD0247,Desk,Furniture,North,1,12000,12000
+3/25/2026,ORD0248,Laptop,Electronics,East,5,55000,275000
+4/6/2026,ORD0249,Mouse,Accessories,South,3,900,2700
+5/16/2026,ORD0250,Mouse,Accessories,South,3,900,2700
+2/14/2026,ORD0251,Smartphone,Electronics,South,7,30000,210000
+5/8/2026,ORD0252,Backpack,Accessories,South,3,2200,6600
+4/29/2026,ORD0253,Desk,Furniture,East,8,12000,96000
+6/20/2026,ORD0254,Laptop,Electronics,East,8,55000,440000
+6/23/2026,ORD0255,Printer,Electronics,North,3,11000,33000
+4/24/2026,ORD0256,Keyboard,Accessories,West,5,1800,9000
+6/26/2026,ORD0257,Desk,Furniture,East,8,12000,96000
+2/20/2026,ORD0258,Mouse,Accessories,North,8,900,7200
+3/2/2026,ORD0259,Mouse,Accessories,East,6,900,5400
+6/29/2026,ORD0260,Desk,Furniture,West,1,12000,12000
+3/12/2026,ORD0261,Laptop,Electronics,West,1,55000,55000
+3/15/2026,ORD0262,Office Chair,Furniture,South,6,7500,45000
+6/12/2026,ORD0263,Office Chair,Furniture,South,5,7500,37500
+6/10/2026,ORD0264,Smartphone,Electronics,East,1,30000,30000
+4/23/2026,ORD0265,Laptop,Electronics,South,6,55000,330000
+1/24/2026,ORD0266,Desk,Furniture,West,6,12000,72000
+2/14/2026,ORD0267,Office Chair,Furniture,East,3,7500,22500
+5/16/2026,ORD0268,Printer,Electronics,South,5,11000,55000
+3/7/2026,ORD0269,Monitor,Electronics,East,5,15000,75000
+1/30/2026,ORD0270,Monitor,Electronics,South,2,15000,30000
+2/27/2026,ORD0271,Mouse,Accessories,North,6,900,5400
+4/12/2026,ORD0272,Laptop,Electronics,North,5,55000,275000
+4/27/2026,ORD0273,Keyboard,Accessories,West,5,1800,9000
+6/13/2026,ORD0274,Keyboard,Accessories,South,2,1800,3600
+5/1/2026,ORD0275,Laptop,Electronics,South,6,55000,330000
+6/15/2026,ORD0276,Smartphone,Electronics,East,8,30000,240000
+6/16/2026,ORD0277,Mouse,Accessories,South,2,900,1800
+1/12/2026,ORD0278,Laptop,Electronics,West,5,55000,275000
+1/30/2026,ORD0279,Smartphone,Electronics,South,4,30000,120000
+4/10/2026,ORD0280,Monitor,Electronics,West,6,15000,90000
+5/31/2026,ORD0281,Headphones,Electronics,North,7,2500,17500
+5/6/2026,ORD0282,Backpack,Accessories,East,7,2200,15400
+1/9/2026,ORD0283,Keyboard,Accessories,West,4,1800,7200
+4/24/2026,ORD0284,Office Chair,Furniture,North,6,7500,45000
+6/25/2026,ORD0285,Keyboard,Accessories,North,6,1800,10800
+4/12/2026,ORD0286,Desk,Furniture,North,4,12000,48000
+4/27/2026,ORD0287,Smartphone,Electronics,North,4,30000,120000
+1/13/2026,ORD0288,Keyboard,Accessories,South,4,1800,7200
+5/25/2026,ORD0289,Office Chair,Furniture,South,2,7500,15000
+5/31/2026,ORD0290,Office Chair,Furniture,East,4,7500,30000
+2/7/2026,ORD0291,Backpack,Accessories,East,1,2200,2200
+2/7/2026,ORD0292,Headphones,Electronics,South,5,2500,12500
+1/29/2026,ORD0293,Laptop,Electronics,North,3,55000,165000
+4/2/2026,ORD0294,Office Chair,Furniture,North,6,7500,45000
+2/14/2026,ORD0295,Desk,Furniture,South,1,12000,12000
+4/18/2026,ORD0296,Printer,Electronics,North,2,11000,22000
+5/2/2026,ORD0297,Monitor,Electronics,North,6,15000,90000
+4/26/2026,ORD0298,Printer,Electronics,North,4,11000,44000
+6/18/2026,ORD0299,Printer,Electronics,West,5,11000,55000
+6/14/2026,ORD0300,Laptop,Electronics,West,1,55000,55000
+4/13/2026,ORD0301,Mouse,Accessories,West,2,900,1800
+4/24/2026,ORD0302,Smartphone,Electronics,East,2,30000,60000
+6/5/2026,ORD0303,Headphones,Electronics,South,2,2500,5000
+3/12/2026,ORD0304,Backpack,Accessories,West,6,2200,13200
+6/2/2026,ORD0305,Printer,Electronics,West,5,11000,55000
+5/10/2026,ORD0306,Backpack,Accessories,North,7,2200,15400
+6/29/2026,ORD0307,Smartphone,Electronics,West,4,30000,120000
+4/26/2026,ORD0308,Office Chair,Furniture,East,7,7500,52500
+4/27/2026,ORD0309,Mouse,Accessories,North,7,900,6300
+3/22/2026,ORD0310,Mouse,Accessories,East,6,900,5400
+4/6/2026,ORD0311,Headphones,Electronics,North,8,2500,20000
+1/24/2026,ORD0312,Smartphone,Electronics,West,2,30000,60000
+1/25/2026,ORD0313,Keyboard,Accessories,North,3,1800,5400
+5/31/2026,ORD0314,Printer,Electronics,North,6,11000,66000
+4/16/2026,ORD0315,Keyboard,Accessories,North,7,1800,12600
+3/15/2026,ORD0316,Backpack,Accessories,East,5,2200,11000
+1/27/2026,ORD0317,Backpack,Accessories,South,4,2200,8800
+6/18/2026,ORD0318,Monitor,Electronics,North,4,15000,60000
+3/31/2026,ORD0319,Printer,Electronics,North,6,11000,66000
+3/13/2026,ORD0320,Backpack,Accessories,West,4,2200,8800
+5/24/2026,ORD0321,Backpack,Accessories,East,1,2200,2200
+1/8/2026,ORD0322,Headphones,Electronics,East,5,2500,12500
+3/28/2026,ORD0323,Keyboard,Accessories,South,1,1800,1800
+2/6/2026,ORD0324,Backpack,Accessories,North,7,2200,15400
+2/6/2026,ORD0325,Laptop,Electronics,South,2,55000,110000
+4/7/2026,ORD0326,Mouse,Accessories,East,8,900,7200
+2/10/2026,ORD0327,Keyboard,Accessories,East,5,1800,9000
+5/26/2026,ORD0328,Backpack,Accessories,North,2,2200,4400
+2/9/2026,ORD0329,Headphones,Electronics,North,1,2500,2500
+3/11/2026,ORD0330,Monitor,Electronics,West,7,15000,105000
+6/5/2026,ORD0331,Monitor,Electronics,East,7,15000,105000
+2/25/2026,ORD0332,Printer,Electronics,East,2,11000,22000
+4/21/2026,ORD0333,Smartphone,Electronics,West,5,30000,150000
+5/15/2026,ORD0334,Desk,Furniture,South,1,12000,12000
+4/12/2026,ORD0335,Backpack,Accessories,North,1,2200,2200
+2/22/2026,ORD0336,Desk,Furniture,South,4,12000,48000
+3/7/2026,ORD0337,Desk,Furniture,North,6,12000,72000
+1/2/2026,ORD0338,Monitor,Electronics,South,7,15000,105000
+2/3/2026,ORD0339,Mouse,Accessories,East,4,900,3600
+1/19/2026,ORD0340,Mouse,Accessories,West,1,900,900
+1/5/2026,ORD0341,Monitor,Electronics,East,2,15000,30000
+5/28/2026,ORD0342,Mouse,Accessories,West,7,900,6300
+3/16/2026,ORD0343,Smartphone,Electronics,North,7,30000,210000
+3/25/2026,ORD0344,Headphones,Electronics,East,8,2500,20000
+1/23/2026,ORD0345,Mouse,Accessories,South,2,900,1800
+4/22/2026,ORD0346,Backpack,Accessories,North,7,2200,15400
+4/12/2026,ORD0347,Desk,Furniture,South,6,12000,72000
+3/27/2026,ORD0348,Headphones,Electronics,North,2,2500,5000
+5/16/2026,ORD0349,Printer,Electronics,East,4,11000,44000
+3/31/2026,ORD0350,Headphones,Electronics,North,4,2500,10000
+2/7/2026,ORD0351,Desk,Furniture,South,4,12000,48000
+6/4/2026,ORD0352,Headphones,Electronics,South,2,2500,5000
+6/10/2026,ORD0353,Monitor,Electronics,West,8,15000,120000
+6/24/2026,ORD0354,Backpack,Accessories,East,6,2200,13200
+2/8/2026,ORD0355,Monitor,Electronics,West,2,15000,30000
+4/24/2026,ORD0356,Desk,Furniture,North,5,12000,60000
+4/1/2026,ORD0357,Printer,Electronics,East,2,11000,22000
+4/29/2026,ORD0358,Monitor,Electronics,North,1,15000,15000
+4/5/2026,ORD0359,Desk,Furniture,North,2,12000,24000
+6/7/2026,ORD0360,Backpack,Accessories,West,7,2200,15400
+5/29/2026,ORD0361,Printer,Electronics,West,1,11000,11000
+5/27/2026,ORD0362,Office Chair,Furniture,West,6,7500,45000
+5/9/2026,ORD0363,Headphones,Electronics,West,1,2500,2500
+1/27/2026,ORD0364,Keyboard,Accessories,South,2,1800,3600
+1/11/2026,ORD0365,Office Chair,Furniture,West,8,7500,60000
+5/15/2026,ORD0366,Printer,Electronics,East,3,11000,33000
+4/6/2026,ORD0367,Desk,Furniture,West,7,12000,84000
+3/28/2026,ORD0368,Backpack,Accessories,East,1,2200,2200
+1/17/2026,ORD0369,Keyboard,Accessories,West,2,1800,3600
+3/14/2026,ORD0370,Desk,Furniture,East,3,12000,36000
+1/21/2026,ORD0371,Backpack,Accessories,East,3,2200,6600
+3/21/2026,ORD0372,Mouse,Accessories,North,3,900,2700
+3/21/2026,ORD0373,Printer,Electronics,East,7,11000,77000
+2/2/2026,ORD0374,Printer,Electronics,West,2,11000,22000
+5/11/2026,ORD0375,Keyboard,Accessories,East,1,1800,1800
+3/21/2026,ORD0376,Headphones,Electronics,East,4,2500,10000
+5/5/2026,ORD0377,Office Chair,Furniture,South,4,7500,30000
+2/9/2026,ORD0378,Smartphone,Electronics,North,5,30000,150000
+5/10/2026,ORD0379,Printer,Electronics,East,1,11000,11000
+6/8/2026,ORD0380,Headphones,Electronics,South,7,2500,17500
+2/11/2026,ORD0381,Headphones,Electronics,West,3,2500,7500
+1/12/2026,ORD0382,Mouse,Accessories,South,6,900,5400
+4/24/2026,ORD0383,Backpack,Accessories,West,5,2200,11000
+3/1/2026,ORD0384,Printer,Electronics,East,4,11000,44000
+5/1/2026,ORD0385,Office Chair,Furniture,West,6,7500,45000
+4/29/2026,ORD0386,Desk,Furniture,West,7,12000,84000
+2/11/2026,ORD0387,Office Chair,Furniture,East,3,7500,22500
+1/14/2026,ORD0388,Monitor,Electronics,North,6,15000,90000
+5/13/2026,ORD0389,Smartphone,Electronics,North,5,30000,150000
+2/11/2026,ORD0390,Desk,Furniture,South,8,12000,96000
+4/22/2026,ORD0391,Smartphone,Electronics,West,4,30000,120000
+3/31/2026,ORD0392,Laptop,Electronics,North,7,55000,385000
+4/12/2026,ORD0393,Printer,Electronics,South,6,11000,66000
+4/9/2026,ORD0394,Smartphone,Electronics,South,6,30000,180000
+1/8/2026,ORD0395,Keyboard,Accessories,East,2,1800,3600
+2/7/2026,ORD0396,Headphones,Electronics,East,1,2500,2500
+5/1/2026,ORD0397,Headphones,Electronics,West,8,2500,20000
+6/7/2026,ORD0398,Laptop,Electronics,North,2,55000,110000
+3/7/2026,ORD0399,Office Chair,Furniture,West,3,7500,22500
+1/29/2026,ORD0400,Desk,Furniture,East,4,12000,48000
+2/1/2026,ORD0401,Laptop,Electronics,West,4,55000,220000
+6/13/2026,ORD0402,Backpack,Accessories,North,8,2200,17600
+1/29/2026,ORD0403,Monitor,Electronics,South,1,15000,15000
+2/6/2026,ORD0404,Desk,Furniture,North,7,12000,84000
+6/7/2026,ORD0405,Keyboard,Accessories,West,4,1800,7200
+2/17/2026,ORD0406,Smartphone,Electronics,North,6,30000,180000
+5/15/2026,ORD0407,Printer,Electronics,West,1,11000,11000
+5/1/2026,ORD0408,Laptop,Electronics,East,7,55000,385000
+3/6/2026,ORD0409,Laptop,Electronics,North,6,55000,330000
+3/30/2026,ORD0410,Office Chair,Furniture,East,2,7500,15000
+2/4/2026,ORD0411,Laptop,Electronics,East,6,55000,330000
+6/14/2026,ORD0412,Headphones,Electronics,West,8,2500,20000
+6/11/2026,ORD0413,Headphones,Electronics,North,3,2500,7500
+4/28/2026,ORD0414,Laptop,Electronics,South,5,55000,275000
+1/12/2026,ORD0415,Office Chair,Furniture,East,1,7500,7500
+3/21/2026,ORD0416,Printer,Electronics,West,7,11000,77000
+3/6/2026,ORD0417,Laptop,Electronics,East,4,55000,220000
+4/2/2026,ORD0418,Laptop,Electronics,East,6,55000,330000
+2/1/2026,ORD0419,Keyboard,Accessories,West,7,1800,12600
+4/23/2026,ORD0420,Mouse,Accessories,South,6,900,5400
+5/8/2026,ORD0421,Monitor,Electronics,East,6,15000,90000
+1/22/2026,ORD0422,Mouse,Accessories,West,2,900,1800
+6/4/2026,ORD0423,Headphones,Electronics,East,5,2500,12500
+1/27/2026,ORD0424,Smartphone,Electronics,East,6,30000,180000
+3/20/2026,ORD0425,Monitor,Electronics,South,7,15000,105000
+6/26/2026,ORD0426,Monitor,Electronics,West,6,15000,90000
+1/11/2026,ORD0427,Keyboard,Accessories,East,7,1800,12600
+6/13/2026,ORD0428,Laptop,Electronics,West,2,55000,110000
+4/4/2026,ORD0429,Printer,Electronics,North,3,11000,33000
+2/6/2026,ORD0430,Backpack,Accessories,North,8,2200,17600
+2/2/2026,ORD0431,Smartphone,Electronics,East,4,30000,120000
+4/3/2026,ORD0432,Mouse,Accessories,South,1,900,900
+6/23/2026,ORD0433,Monitor,Electronics,East,6,15000,90000
+4/24/2026,ORD0434,Smartphone,Electronics,East,3,30000,90000
+4/12/2026,ORD0435,Keyboard,Accessories,South,5,1800,9000
+1/30/2026,ORD0436,Laptop,Electronics,West,3,55000,165000
+5/13/2026,ORD0437,Mouse,Accessories,East,2,900,1800
+3/8/2026,ORD0438,Monitor,Electronics,East,4,15000,60000
+6/27/2026,ORD0439,Monitor,Electronics,North,4,15000,60000
+2/4/2026,ORD0440,Smartphone,Electronics,South,8,30000,240000
+4/24/2026,ORD0441,Smartphone,Electronics,East,6,30000,180000
+7/1/2026,ORD0442,Smartphone,Electronics,East,5,30000,150000
+2/10/2026,ORD0443,Headphones,Electronics,South,6,2500,15000
+2/1/2026,ORD0444,Office Chair,Furniture,South,3,7500,22500
+5/7/2026,ORD0445,Laptop,Electronics,East,6,55000,330000
+4/30/2026,ORD0446,Printer,Electronics,North,3,11000,33000
+1/17/2026,ORD0447,Desk,Furniture,West,7,12000,84000
+5/15/2026,ORD0448,Mouse,Accessories,North,7,900,6300
+2/2/2026,ORD0449,Keyboard,Accessories,West,2,1800,3600
+4/30/2026,ORD0450,Printer,Electronics,South,6,11000,66000
+5/22/2026,ORD0451,Backpack,Accessories,South,3,2200,6600
+4/21/2026,ORD0452,Printer,Electronics,North,1,11000,11000
+5/13/2026,ORD0453,Headphones,Electronics,South,5,2500,12500
+2/11/2026,ORD0454,Keyboard,Accessories,East,4,1800,7200
+5/13/2026,ORD0455,Desk,Furniture,East,2,12000,24000
+2/20/2026,ORD0456,Printer,Electronics,South,5,11000,55000
+6/10/2026,ORD0457,Desk,Furniture,South,2,12000,24000
+6/1/2026,ORD0458,Backpack,Accessories,South,3,2200,6600
+6/18/2026,ORD0459,Backpack,Accessories,North,6,2200,13200
+1/8/2026,ORD0460,Smartphone,Electronics,East,1,30000,30000
+6/16/2026,ORD0461,Office Chair,Furniture,North,7,7500,52500
+5/8/2026,ORD0462,Printer,Electronics,East,5,11000,55000
+5/4/2026,ORD0463,Office Chair,Furniture,East,7,7500,52500
+4/27/2026,ORD0464,Smartphone,Electronics,South,1,30000,30000
+4/23/2026,ORD0465,Mouse,Accessories,West,8,900,7200
+2/22/2026,ORD0466,Keyboard,Accessories,East,3,1800,5400
+3/23/2026,ORD0467,Keyboard,Accessories,South,7,1800,12600
+4/5/2026,ORD0468,Printer,Electronics,East,2,11000,22000
+3/3/2026,ORD0469,Monitor,Electronics,East,2,15000,30000
+4/26/2026,ORD0470,Office Chair,Furniture,North,3,7500,22500
+1/13/2026,ORD0471,Desk,Furniture,West,7,12000,84000
+3/5/2026,ORD0472,Headphones,Electronics,East,6,2500,15000
+2/18/2026,ORD0473,Headphones,Electronics,West,8,2500,20000
+5/8/2026,ORD0474,Desk,Furniture,North,8,12000,96000
+1/24/2026,ORD0475,Mouse,Accessories,South,8,900,7200
+2/25/2026,ORD0476,Backpack,Accessories,North,6,2200,13200
+1/13/2026,ORD0477,Desk,Furniture,West,8,12000,96000
+3/15/2026,ORD0478,Printer,Electronics,North,1,11000,11000
+4/21/2026,ORD0479,Headphones,Electronics,East,5,2500,12500
+4/14/2026,ORD0480,Keyboard,Accessories,West,1,1800,1800
+1/14/2026,ORD0481,Backpack,Accessories,East,4,2200,8800
+5/22/2026,ORD0482,Desk,Furniture,West,2,12000,24000
+5/10/2026,ORD0483,Monitor,Electronics,North,5,15000,75000
+2/2/2026,ORD0484,Smartphone,Electronics,East,7,30000,210000
+3/28/2026,ORD0485,Printer,Electronics,South,6,11000,66000
+2/20/2026,ORD0486,Backpack,Accessories,North,7,2200,15400
+1/12/2026,ORD0487,Laptop,Electronics,East,3,55000,165000
+5/2/2026,ORD0488,Printer,Electronics,South,8,11000,88000
+6/5/2026,ORD0489,Printer,Electronics,East,3,11000,33000
+6/6/2026,ORD0490,Keyboard,Accessories,West,3,1800,5400
+6/7/2026,ORD0491,Desk,Furniture,West,6,12000,72000
+7/1/2026,ORD0492,Backpack,Accessories,West,5,2200,11000
+1/5/2026,ORD0493,Keyboard,Accessories,North,6,1800,10800
+4/17/2026,ORD0494,Backpack,Accessories,North,5,2200,11000
+6/2/2026,ORD0495,Monitor,Electronics,South,5,15000,75000
+1/14/2026,ORD0496,Backpack,Accessories,South,8,2200,17600
+5/15/2026,ORD0497,Backpack,Accessories,South,7,2200,15400
+6/24/2026,ORD0498,Office Chair,Furniture,North,1,7500,7500
+2/18/2026,ORD0499,Laptop,Electronics,East,8,55000,440000
+4/18/2026,ORD0500,Headphones,Electronics,South,7,2500,17500
